@@ -1,0 +1,8 @@
+# zfill
+str= '4'
+print(str.zfill(10))
+#lower/upper
+str='chaRmIlA'
+print(str.lower())
+str='POoJa'
+print(min(str))
