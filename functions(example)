@@ -1,0 +1,4 @@
+def example():
+    for i in range(10):
+        print("charu",end=' ')
+example()
